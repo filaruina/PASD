@@ -15,7 +15,7 @@ So, to help those people see how it bothers us, we thought about this project.
 # TODO
 
 ## MVP
-- [ ] Hear sound with arduino
+- [x] Hear sound with arduino
 - [ ] Check for a sound threshold
 - [ ] Blink when it passes
 
